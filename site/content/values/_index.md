@@ -5,23 +5,23 @@ values:
   - heading: "Led by Faith"
     text: >
       Our mission is to rekindle an excitement and appreciation of Catholic
-    heritage and legacy by bringing students to the sites of great historical
-    and religious significance.  Like the parable of Jesus leading his disciples
-    across a wide river and trusting that God, the Father, would deliver them
-    safely to the other shore,  our motto is- 
-    When we have faith and trust in God, we can achieve anything,
-    even if it seems impossible.
+      heritage and legacy by bringing students to the sites of great historical
+      and religious significance.  Like the parable of Jesus leading his disciples
+      across a wide river and trusting that God, the Father, would deliver them
+      safely to the other shore,  our motto is- 
+      When we have faith and trust in God, we can achieve anything,
+      even if it seems impossible.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Guided by History"
     text: >
-     Understanding Catholic history and heritage are important to learn
-     because it helps students understand how the Catholic Church has played
-     a significant role in shaping the world we live in today. It helps them
-     understand the beliefs and traditions of the Catholic Church and how 
-     they have evolved over time. Students can gain a deeper understanding
-     of their own faith and how it connects to the world around them. 
-     Learning about their Catholic heritage also helps students appreciate
-     and respect the diversity of beliefs and cultures within our society.
+       Understanding Catholic history and heritage are important to learn
+       because it helps students understand how the Catholic Church has played
+       a significant role in shaping the world we live in today. It helps them
+       understand the beliefs and traditions of the Catholic Church and how 
+       they have evolved over time. Students can gain a deeper understanding
+       of their own faith and how it connects to the world around them. 
+       Learning about their Catholic heritage also helps students appreciate
+       and respect the diversity of beliefs and cultures within our society.
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "Social Justice and Equity"
     text: >
